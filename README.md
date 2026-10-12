@@ -1,6 +1,6 @@
 👋 Hi, I'm **Athira Rajesh**!
 
-🎓 M.Tech Telecommunication student at **NIT Calicut**, with 2 years of professional experience as a Senior Engineer in **Automotive Cybersecurity, Validation, and Automation at Tata Elxsi**.
+🎓 M.Tech Telecommunication student at **NIT Calicut**, with 2 years of professional experience as an Engineer in **Automotive Cybersecurity, Validation, and Automation at Tata Elxsi**.
 
 💻 **Technical Interests:** Python, Artificial Intelligence, Machine Learning, Embedded Systems, Automotive Cybersecurity, and RF/Microwave Engineering.
 
